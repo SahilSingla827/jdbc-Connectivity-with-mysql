@@ -1,0 +1,5 @@
+use sahil;
+create table emp(eid int,ename varchar(10));
+insert into emp values(1,'sahil');
+insert into emp values(2,'amit');
+select * from emp;
